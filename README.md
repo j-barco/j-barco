@@ -13,7 +13,7 @@
 
 ---
 
-## 🧐 About me
+## About me
 
 - 🔭 **Currently:** Actively looking for my first role in network infrastructure, cloud or DevOps, while building my homelab and pursuing CCNA & AWS Cloud Practitioner certifications.
 - 🌍 **Goal:** Working in network infrastructure, cloud or DevOps in Europe.
@@ -53,9 +53,9 @@
 
 ---
 
-## 🏆 Featured Project
+## Featured Project
 
-### 📡 TFG-dashboard-5G
+### TFG-dashboard-5G
 **Analysis and Management of Network Services over Open-Source 5G Infrastructures**
 > *Final Degree Project — Grade: 10/10 with Honours nomination*
 
@@ -67,7 +67,7 @@ Designed and deployed a private 5G network on physical hardware using **srsRAN P
 
 ---
 
-## 🏠 Personal Homelab
+## Personal Homelab
 
 Self-managed infrastructure running on a **Lenovo ThinkCentre M910Q** (Proxmox VE) and **Raspberry Pi 3B**, interconnected via a managed switch with VLAN segmentation.
 
@@ -79,7 +79,7 @@ In active development: K3s · CI/CD pipelines · ArgoCD · Prometheus & Grafana
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 | Certification | Issuer | Status |
 | :--- | :--- | :--- |
